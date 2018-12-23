@@ -1,0 +1,34 @@
+[
+    {
+        "languageType":"Turk",
+        "title":"Türkçe",
+        "hash":"299adc59f3d9a0a7f04e21d372df8888",
+        "webUrl":"https://raw.githubusercontent.com/Crpsem/CarX-Drift-Racing-Online-T-rk-e-Yama/master/Turk.json",
+        "timestamp":"1545583812000",
+        "__class":"LocalizationLanguageMeta"
+    },
+	{
+        "languageType":"German",
+        "title":"Deutsch",
+        "hash":"75e560cd2c531cf25cb3b07b9a2834a7",
+        "webUrl":"http://carx-dr1-steam.s3.amazonaws.com/prod/1.5.0/localization/German.json",
+        "timestamp":"1545140513760",
+        "__class":"LocalizationLanguageMeta"
+    },
+    {
+        "languageType":"English",
+        "title":"English",
+        "hash":"7a05160d35d3192a0ee4df3d25da0b5c",
+        "webUrl":"http://carx-dr1-steam.s3.amazonaws.com/prod/1.5.0/localization/English.json",
+        "timestamp":"1545140513782",
+        "__class":"LocalizationLanguageMeta"
+    },
+    {
+        "languageType":"Russian",
+        "title":"Русский",
+        "hash":"620296d2ce7e256a56aadd594bafb136",
+        "webUrl":"http://carx-dr1-steam.s3.amazonaws.com/prod/1.5.0/localization/Russian.json",
+        "timestamp":"1545140513786",
+        "__class":"LocalizationLanguageMeta"
+    }
+]

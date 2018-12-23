@@ -1,0 +1,26 @@
+{
+    "Turk":
+    {
+        "hash":"299adc59f3d9a0a7f04e21d372df8888",
+        "timestamp":"1545583812000",
+        "__class":"VersionInfo"
+    },
+	"German":
+    {
+        "hash":"75e560cd2c531cf25cb3b07b9a2834a7",
+        "timestamp":"1545140513760",
+        "__class":"VersionInfo"
+    },
+    "English":
+    {
+        "hash":"7a05160d35d3192a0ee4df3d25da0b5c",
+        "timestamp":"1545140513782",
+        "__class":"VersionInfo"
+    },
+    "Russian":
+    {
+        "hash":"620296d2ce7e256a56aadd594bafb136",
+        "timestamp":"1545140513786",
+        "__class":"VersionInfo"
+    }
+}
